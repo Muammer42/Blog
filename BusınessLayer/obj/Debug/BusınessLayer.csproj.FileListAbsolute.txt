@@ -1,0 +1,15 @@
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\bin\Debug\BusınessLayer.dll
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\bin\Debug\BusınessLayer.pdb
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\obj\Debug\BusınessLayer.csproj.AssemblyReference.cache
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\obj\Debug\BusınessLayer.csproj.CoreCompileInputs.cache
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\obj\Debug\BusınessLayer.dll
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\obj\Debug\BusınessLayer.pdb
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\bin\Debug\DataAccessLayer.dll
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\bin\Debug\EntityLayer.dll
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\bin\Debug\EntityFramework.dll
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\bin\Debug\EntityLayer.pdb
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\bin\Debug\EntityLayer.dll.config
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\bin\Debug\EntityFramework.xml
+C:\Uygulama Derslerım\MvcProjee\BusınessLayer\obj\Debug\BusınessLayer.csproj.CopyComplete

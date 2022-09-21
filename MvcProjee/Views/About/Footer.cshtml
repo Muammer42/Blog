@@ -1,0 +1,55 @@
+﻿@model IEnumerable<EntityLayer.Concrete.About>
+
+<div class="site-footer">
+    <div class="container">
+        <div class="row mb-5">
+            @foreach (var x in Model)
+            {
+                <div class="col-md-4">
+                    <h3 class="footer-heading mb-4"></h3>
+                    <p>@x.AboutContent1.</p>
+                </div>
+            }
+
+            <div class="col-md-3 ml-auto">
+                <!-- <h3 class="footer-heading mb-4">Navigation</h3> -->
+                <ul class="list-unstyled float-left mr-5">
+                    @*<li><a href="#">Hakkımızda</a></li>*@
+                    @*<li><a href="#">İletişim</a></li>*@
+                    <li><a href="/Blog/Index/">Ana Sayfa</a></li>
+                    <li><a href="/Login/AuthorLogin/">Yazar Girişi</a></li>
+                </ul>
+                <ul class="list-unstyled float-left">
+                    <li><a href="/Blog/BlogByCategory/4">Seyahat</a></li>
+                    <li><a href="/Blog/BlogByCategory/6">Politika</a></li>
+                    <li><a href="/Blog/BlogByCategory/7">Eğitim</a></li>
+                    <li><a href="/Blog/BlogByCategory/8">Güncel</a></li>
+                </ul>
+            </div>
+            <div class="col-md-4">
+
+
+                <div>
+                    <h3 class="footer-heading mb-4">Sosyal Medya</h3>
+                    <p>
+                        <a href="https://www.facebook.com/senolmetin42" target="_blank"><span class="icon-facebook pt-2 pr-2 pb-2 pl-0"></span></a>
+                        <a href="https://twitter.com/SENOLMETIN_42?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"target="_blank"><span class="icon-twitter p-2"></span></a>
+                        <a href="https://www.youtube.com/channel/UC721e1i2Fb0-hZI_0dw6pXA/videos?view=0&sort=p"target="_blank"><span class="icon-youtube-play"></span></a>
+                      
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 text-center">
+                <p>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    Copyright &copy;
+                    <script>document.write(new Date().getFullYear());</script> Tüm Hakları Saklıdır <i class="icon-heart text-danger" aria-hidden="true"></i>  <a href="" target="_blank"></a>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
